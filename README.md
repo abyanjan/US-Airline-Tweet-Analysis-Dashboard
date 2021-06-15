@@ -8,4 +8,9 @@ Run the dasboard app using
 streamlit run app.py
 ```
 
-<img src="" width=200, height=200 align='center'>
+
+<p float="left">
+  <img src="img_3.PNG" width="400" height="200" />
+  <img src="img_2.PNG" width="400" height="200"/> 
+  <img src="img_1.PNG" width="400" height="200"/>
+</p>
